@@ -1,0 +1,4 @@
+Hello, World!
+Line 2: Python file I/O
+Line 3: Text mode processing
+Line 4: Appended text
